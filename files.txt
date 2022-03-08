@@ -1,0 +1,2 @@
+/usr/local/lib/python3.7/dist-packages/LPi/GPIO.cpython-37m-mips64el-linux-gnuabi64.so
+/usr/local/lib/python3.7/dist-packages/LPi.GPIO-1.0.egg-info

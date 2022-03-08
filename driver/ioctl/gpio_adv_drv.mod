@@ -1,0 +1,2 @@
+/home/loongson/LPi/LPi.GPIO/driver/ioctl/gpio_adv_drv.o
+
